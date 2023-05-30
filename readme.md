@@ -3,7 +3,7 @@
 
 <hr>
 <br>
-Essa foi uma parceria de <b>Trinus e Alura</b>, para que iniantes pudessem receber ajuda no início de suas jornadas tech.
+Essa foi uma parceria de <b>Trinus e Alura</b>, para que iniciantes pudessem receber ajuda no início de suas jornadas tech.
 
 <br>
 
